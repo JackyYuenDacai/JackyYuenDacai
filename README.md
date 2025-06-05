@@ -14,6 +14,6 @@ I'm Jacky Yuen — a passionate hardware & software developer and technology ent
 
 ![JackyYuenDacai's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackyYuenDacai&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackyYuenDacai&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackyYuenDacai&layout=compact&hide=javascript,livescript,html)
 
 Thanks for visiting my profile!
