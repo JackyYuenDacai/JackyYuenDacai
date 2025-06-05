@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Jacky Yuen — a passionate software developer and technology enthusiast.
+I'm Jacky Yuen — a passionate hardware & software developer and technology enthusiast.
 
 ## 🌱 About Me
 
