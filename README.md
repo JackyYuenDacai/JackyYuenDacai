@@ -6,7 +6,7 @@ I'm Jacky Yuen — a passionate software developer and technology enthusiast.
 
 - 💻 I enjoy working on open-source and real-world projects.
 - 🛠️ Skilled in embedded system design, embedded software development, backend development, and more.
-- ⚡ Proficient with C, C++, Python, Go, and various microcontroller platforms.
+- ⚡ Proficient with C, C++, Java, and various microcontroller platforms.
 - 🌏 Interested in embedded systems, embedded software architecture, and robust backend systems.
 - 📚 Always learning and exploring new technologies in hardware and software integration.
 
